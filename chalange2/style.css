@@ -1,0 +1,17 @@
+.box1,
+.box2,
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+}
+.container3 {
+  display: flex;
+  justify-content: end;
+}

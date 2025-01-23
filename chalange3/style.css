@@ -1,0 +1,15 @@
+.main-container {
+  height: 300px;
+  width: 300px;
+  background-color: darkslategrey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.box1 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  color: white;
+}

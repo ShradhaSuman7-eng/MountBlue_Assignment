@@ -1,0 +1,28 @@
+.main {
+    width: 50vw;
+    display: flex;
+    gap: 2rem;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+  }
+
+  .contain {
+    width: 15vw;
+    display: flex;
+    justify-content: end;
+  }
+
+  .box1 {
+    width: 15vw;
+    height: 15vw;
+    background-color: grey;
+  }
+
+  .box2 {
+    width: 10vw;
+    height: 10vw;
+    background-color: black;
+  }

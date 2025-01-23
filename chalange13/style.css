@@ -1,0 +1,54 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+
+
+ .box1{
+
+    background-color: black;
+    
+}
+ .box2{
+    
+    background-color: grey;
+    position: absolute;
+   left: 50px;
+   top:50px ;
+ } 
+ .box3{
+    position: absolute;
+    left: 100px;
+    top:100px ;
+    background-color: black;
+ }
+ .box4{
+    background-color: grey;
+    position: absolute;
+   left: 150px;
+   top:150px ;
+ }
+ .box5{
+    background-color: black;
+    position: absolute;
+    left: 200px;
+    top:200px ;
+ }
+ .box6{
+    background-color: grey;
+    position: absolute;
+   left: 250px;
+   top:250px ;
+ }
+
+
+
+
+/* /* div:nth-of-type(2n){
+    background-color: grey;
+   
+} */
+
+/* div:nth-last-of-type(3n){
+    background-color: black;
+}  */

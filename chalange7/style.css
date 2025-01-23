@@ -1,0 +1,17 @@
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
+.main {
+    height: 400px;
+    width: 600px;
+    background-color: grey;
+    display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: relative;
+  }
+  
